@@ -1,0 +1,3 @@
+(library
+ (public_name not_useless)
+ (wrapped false))
